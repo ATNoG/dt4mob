@@ -1,0 +1,9 @@
+[submodule "dt4mob-gantry-service"]
+	path = dt4mob-gantry-service
+	url = git@github.com:ATNoG/dt4mob-gantry-service.git
+[submodule "dt4mob-sensor-data-conversion"]
+	path = dt4mob-sensor-data-conversion
+	url = git@github.com:ATNoG/dt4mob-sensor-data-conversion.git
+[submodule "dt4mob-level-ams-loader"]
+	path = dt4mob-level-ams-loader
+	url = git@github.com:ATNoG/dt4mob-level-ams-loader.git
