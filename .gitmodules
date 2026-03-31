@@ -7,3 +7,9 @@
 [submodule "dt4mob-level-ams-loader"]
 	path = dt4mob-level-ams-loader
 	url = git@github.com:ATNoG/dt4mob-level-ams-loader.git
+[submodule "dt4mob-data-bridge"]
+	path = dt4mob-data-bridge
+	url = https://github.com/ATNoG/dt4mob-data-bridge
+[submodule "dt4mob-meteo-populator"]
+	path = dt4mob-meteo-populator
+	url = https://github.com/ATNoG/dt4mob-meteo-populator
