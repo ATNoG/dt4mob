@@ -24,3 +24,6 @@
 [submodule "dt4mob-platform"]
 	path = dt4mob-platform
 	url = git@github.com:ATNoG/dt4mob-platform.git
+[submodule "dt4mob-fireSimulator"]
+	path = dt4mob-fireSimulator
+	url = git@github.com:ATNoG/dt4mob-fireSimulator.git
