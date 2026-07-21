@@ -33,3 +33,6 @@
 [submodule "dt4mob-VCItrafficML"]
 	path = dt4mob-VCItrafficML
 	url = git@github.com:ATNoG/dt4mob-VCItrafficML.git
+[submodule "dt4mob-agent-vci"]
+	path = dt4mob-agent-vci
+	url = git@github.com:ATNoG/dt4mob-agent-vci.git
