@@ -30,3 +30,6 @@
 [submodule "dt4mob-A5sim"]
 	path = dt4mob-A5sim
 	url = git@github.com:ATNoG/dt4mob-A5sim.git
+[submodule "dt4mob-VCItrafficML"]
+	path = dt4mob-VCItrafficML
+	url = git@github.com:ATNoG/dt4mob-VCItrafficML.git
