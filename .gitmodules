@@ -36,3 +36,6 @@
 [submodule "dt4mob-agent-vci"]
 	path = dt4mob-agent-vci
 	url = git@github.com:ATNoG/dt4mob-agent-vci.git
+[submodule "dt4mob-site"]
+	path = dt4mob-site
+	url = git@github.com:atnog/dt4mob-site
