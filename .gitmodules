@@ -21,6 +21,7 @@
 [submodule "dt4mob-simulation"]
 	path = dt4mob-simulation
 	url = git@github.com:ATNoG/dt4mob-simulation.git
+	branch = main
 [submodule "dt4mob-platform"]
 	path = dt4mob-platform
 	url = git@github.com:ATNoG/dt4mob-platform.git
@@ -30,12 +31,15 @@
 [submodule "dt4mob-A5sim"]
 	path = dt4mob-A5sim
 	url = git@github.com:ATNoG/dt4mob-A5sim.git
+	branch = main
 [submodule "dt4mob-VCItrafficML"]
 	path = dt4mob-VCItrafficML
 	url = git@github.com:ATNoG/dt4mob-VCItrafficML.git
+	branch = main
 [submodule "dt4mob-agent-vci"]
 	path = dt4mob-agent-vci
 	url = git@github.com:ATNoG/dt4mob-agent-vci.git
+	branch = main
 [submodule "dt4mob-site"]
 	path = dt4mob-site
 	url = git@github.com:atnog/dt4mob-site
