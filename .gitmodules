@@ -46,3 +46,7 @@
 	path = dt4mob-site
 	url = git@github.com:atnog/dt4mob-site
 	branch = main
+[submodule "dt4mob-texture-creation"]
+	path = dt4mob-texture-creation
+	url = https://github.com/ATNoG/dt4mob-texture-creation/
+	branch = main
